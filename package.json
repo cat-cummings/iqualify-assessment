@@ -57,6 +57,7 @@
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.10.0",
+    "nodemon": "^3.1.9",
     "oauth": "^0.10.2",
     "passport": "^0.7.0",
     "passport-facebook": "^3.0.0",
